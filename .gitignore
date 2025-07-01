@@ -1,0 +1,16 @@
+# IntelliJ / JetBrains
+.idea/
+*.iml
+out/
+
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# Eclipse / NetBeans (au cas où)
+*.classpath
+*.project
+*.settings/
